@@ -6,7 +6,7 @@ The tree contains infromation with their Win/Draw/Loss ratio, number of games, a
 the program includes a function to print the tree with options to limit how many layers to print, in order to reduce visual clutter.
 
 With 5 layers and games within the past month (maxarchrives = 1), trees look somthing like:
-
+'''
    Nf3 games: 6 ,wins: 3 losses: 2 draws 1
     |__  c5 games: 2 ,wins: 0 losses: 1 draws 1
       |__  c4 games: 2 ,wins: 0 losses: 1 draws 1
@@ -23,3 +23,4 @@ With 5 layers and games within the past month (maxarchrives = 1), trees look som
     |__  c6 games: 1 ,wins: 0 losses: 1 draws 0
       |__  c4 games: 1 ,wins: 0 losses: 1 draws 0
         |__  g6 games: 1 ,wins: 0 losses: 1 draws 0
+'''
